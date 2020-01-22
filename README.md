@@ -10,13 +10,8 @@ body {
     font-family: YuGothic,'Yu Gothic',sans-serif;
 }
 
-
 ・「h1〜h3(見出しタグ)に抜けがある」
 →ヘッダーロゴ「NAVI」にh1タグを挿入
-
-<a href="" class="header-img"><h1><img src="img-2/logo-header.png" alt="株式会社NAVI" class="header-img"></h1></a>
-
-
 
 
 ・「320px〜1170pxで横スクロール(デバイスの幅に要素が収まっていない状態)が発生している」
